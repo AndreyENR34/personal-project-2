@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DBFB8B3F2938B40900F05F9D /* Спринт 3 - Задача.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Спринт 3 - Задача.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBFB8B3F2938B40900F05F9D /* Sprint 3 task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sprint 3 task.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBFB8B422938B40900F05F9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DBFB8B442938B40900F05F9D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DBFB8B462938B40900F05F9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		DBFB8B402938B40900F05F9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DBFB8B3F2938B40900F05F9D /* Спринт 3 - Задача.app */,
+				DBFB8B3F2938B40900F05F9D /* Sprint 3 task.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DBFB8B3E2938B40900F05F9D /* Спринт 3 - Задача */ = {
+		DBFB8B3E2938B40900F05F9D /* Sprint 3 task */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBFB8B532938B40A00F05F9D /* Build configuration list for PBXNativeTarget "Спринт 3 - Задача" */;
+			buildConfigurationList = DBFB8B532938B40A00F05F9D /* Build configuration list for PBXNativeTarget "Sprint 3 task" */;
 			buildPhases = (
 				DBFB8B3B2938B40900F05F9D /* Sources */,
 				DBFB8B3C2938B40900F05F9D /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Спринт 3 - Задача";
+			name = "Sprint 3 task";
 			productName = "Спринт 3 - Задача";
-			productReference = DBFB8B3F2938B40900F05F9D /* Спринт 3 - Задача.app */;
+			productReference = DBFB8B3F2938B40900F05F9D /* Sprint 3 task.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DBFB8B3A2938B40900F05F9D /* Build configuration list for PBXProject "Спринт 3 - Задача" */;
+			buildConfigurationList = DBFB8B3A2938B40900F05F9D /* Build configuration list for PBXProject "Sprint 3 task" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DBFB8B3E2938B40900F05F9D /* Спринт 3 - Задача */,
+				DBFB8B3E2938B40900F05F9D /* Sprint 3 task */,
 			);
 		};
 /* End PBXProject section */
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DBFB8B3A2938B40900F05F9D /* Build configuration list for PBXProject "Спринт 3 - Задача" */ = {
+		DBFB8B3A2938B40900F05F9D /* Build configuration list for PBXProject "Sprint 3 task" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBFB8B512938B40A00F05F9D /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBFB8B532938B40A00F05F9D /* Build configuration list for PBXNativeTarget "Спринт 3 - Задача" */ = {
+		DBFB8B532938B40A00F05F9D /* Build configuration list for PBXNativeTarget "Sprint 3 task" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBFB8B542938B40A00F05F9D /* Debug */,
